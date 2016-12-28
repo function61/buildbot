@@ -64,6 +64,6 @@ $ ssh root@ip-of-buildbot buildbot.sh --service_id foo --repo git@github.com:fun
 TODO / roadmap
 --------------
 
-- Push additional tags like at the same time (think exact revision tag AND "latest" release)
+- Push additional tags at the same time (think exact revision tag AND "latest" release)
 - instead of SSH connectivity, implement as HTTP API? The hardest part would be streaming
   stdout/stderr while build progresses, and return code at the end.

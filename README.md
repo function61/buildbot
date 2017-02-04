@@ -67,3 +67,13 @@ TODO / roadmap
 - Push additional tags at the same time (think exact revision tag AND "latest" release)
 - instead of SSH connectivity, implement as HTTP API? The hardest part would be streaming
   stdout/stderr while build progresses, and return code at the end.
+
+
+Support / contact
+-----------------
+
+Basic support (no guarantees) for issues / feature requests via GitHub issues.
+
+Paid support is available via [function61.com/consulting](https://function61.com/consulting/)
+
+Contact options (email, Twitter etc.) at [function61.com](https://function61.com/)

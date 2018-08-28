@@ -1,3 +1,6 @@
+Buildbot has been superseded by [function61/turbobob](https://github.com/function61/turbobob)
+
+
 Buildbot?
 ---------
 
